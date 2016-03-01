@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+
+/**
+ * @author boban
+ *
+ */
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//¥Ú”°
+        System.out.println("Hello world!");
+	}
+
+}
